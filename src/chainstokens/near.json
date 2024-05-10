@@ -1,0 +1,21 @@
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "address": "near",
+            "name": "NEAR Protocol",
+            "symbol": "NEAR",
+            "blockchainNetwork": "near",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/near/near/logo.png",
+            "rank": 8.0,
+            "usedInIframe": false,
+            "coingeckoId": "near",
+            "usdPrice": 6.41,
+            "coingecko_rank": 23,
+            "token_security": null
+        }
+    ]
+}

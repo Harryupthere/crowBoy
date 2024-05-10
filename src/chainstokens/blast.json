@@ -1,0 +1,420 @@
+{
+    "count": 20,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "address": "0x0000000000000000000000000000000000000000",
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0x0000000000000000000000000000000000000000/logo.png",
+            "rank": 8.0,
+            "usedInIframe": false,
+            "coingeckoId": "ethereum",
+            "usdPrice": 3318.36,
+            "coingecko_rank": 2,
+            "token_security": null
+        },
+        {
+            "address": "0x4300000000000000000000000000000000000004",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0x4300000000000000000000000000000000000004/logo.png",
+            "rank": 7.0,
+            "usedInIframe": false,
+            "coingeckoId": "weth",
+            "usdPrice": 3314.42,
+            "coingecko_rank": 99999,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 0,
+                "attention_security_items": 1,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0x4300000000000000000000000000000000000003",
+            "name": "USDB",
+            "symbol": "USDB",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0x4300000000000000000000000000000000000003/logo.png",
+            "rank": 6.99,
+            "usedInIframe": false,
+            "coingeckoId": "usdb",
+            "usdPrice": 1.017,
+            "coingecko_rank": 99999,
+            "token_security": {
+                "has_info": true,
+                "trust_list": true,
+                "risky_security_items": 0,
+                "attention_security_items": 1,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0xf782e172a14ee1c85cd980c15375ba0e87957028",
+            "name": "Tiny Tiger Cat",
+            "symbol": "CACA",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0xf782e172a14ee1c85cd980c15375ba0e87957028/logo.png",
+            "rank": 6.95,
+            "usedInIframe": false,
+            "coingeckoId": null,
+            "usdPrice": null,
+            "coingecko_rank": null,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 0,
+                "attention_security_items": 0,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8",
+            "name": "Andy",
+            "symbol": "ANDY",
+            "blockchainNetwork": "blast",
+            "decimals": 9,
+            "image": "https://assets.rubic.exchange/assets/blast/0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": "andyerc",
+            "usdPrice": 0.307767,
+            "coingecko_rank": 99999,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 0,
+                "attention_security_items": 4,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0x9bd75c164daf830733ac2ea71a0258f95aac7c57",
+            "name": "BlastCat",
+            "symbol": "BCat",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0x9bd75c164daf830733ac2ea71a0258f95aac7c57/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": "blastcat",
+            "usdPrice": 7.0078e-10,
+            "coingecko_rank": 99999,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 0,
+                "attention_security_items": 0,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0xb582dc28968c725d2868130752afa0c13ebf9b1a",
+            "name": "Blast Pepe",
+            "symbol": "BEPE",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0xb582dc28968c725d2868130752afa0c13ebf9b1a/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": "blast-pepe",
+            "usdPrice": 1.985e-05,
+            "coingecko_rank": 99999,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 0,
+                "attention_security_items": 0,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0x34050224F9eA1859790b7CBBBe2264f1204771A6",
+            "name": "Blast Inu",
+            "symbol": "BINU",
+            "blockchainNetwork": "blast",
+            "decimals": 9,
+            "image": "https://assets.rubic.exchange/assets/blast/0x34050224f9ea1859790b7cbbbe2264f1204771a6/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": "blast-inu-2",
+            "usdPrice": 0.00011892,
+            "coingecko_rank": 99999,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 0,
+                "attention_security_items": 6,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0x7217124c626f0b7077be91df939195c9a8184ecc",
+            "name": "Finger Blast",
+            "symbol": "FINGER",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0x7217124c626f0b7077be91df939195c9a8184ecc/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": "finger-blast",
+            "usdPrice": 1.34e-06,
+            "coingecko_rank": 99999,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 0,
+                "attention_security_items": 0,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B",
+            "name": "MIA",
+            "symbol": "MIA",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0xa4c7aa67189ec5623121c6c94ec757dfed932d4b/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": "mia",
+            "usdPrice": 0.00387461,
+            "coingecko_rank": 99999,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 0,
+                "attention_security_items": 0,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0x42e12d42b3d6c4a74a88a61063856756ea2db357",
+            "name": "Orbit Protocol",
+            "symbol": "ORBIT",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0x42e12d42b3d6c4a74a88a61063856756ea2db357/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": "orbit-protocol",
+            "usdPrice": 0.52041,
+            "coingecko_rank": 99999,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 0,
+                "attention_security_items": 1,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0xdfdcdbc789b56f99b0d0692d14dbc61906d9deed",
+            "name": "SSS",
+            "symbol": "SSS",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0xdfdcdbc789b56f99b0d0692d14dbc61906d9deed/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": "super-sushi-samurai",
+            "usdPrice": 1.934e-11,
+            "coingecko_rank": 99999,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 0,
+                "attention_security_items": 2,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0x67fa2887914fa3729e9eed7630294fe124f417a0",
+            "name": "Yield Token",
+            "symbol": "YIELD",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0x67fa2887914fa3729e9eed7630294fe124f417a0/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": "crypto-valleys-yield-token",
+            "usdPrice": 2.1,
+            "coingecko_rank": 99999,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 1,
+                "attention_security_items": 2,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+            "name": "Axelar",
+            "symbol": "AXL",
+            "blockchainNetwork": "blast",
+            "decimals": 6,
+            "image": "https://assets.rubic.exchange/assets/blast/0x23ee2343b892b1bb63503a4fabc840e0e2c6810f/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": null,
+            "usdPrice": null,
+            "coingecko_rank": null,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 1,
+                "attention_security_items": 0,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7",
+            "name": "Axelar Wrapped DAI",
+            "symbol": "axlDAI",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0x5c7e299cf531eb66f2a1df637d37abb78e6200c7/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": null,
+            "usdPrice": null,
+            "coingecko_rank": null,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 1,
+                "attention_security_items": 0,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+            "name": "Axelar ETH",
+            "symbol": "axlETH",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0xb829b68f57cc546da7e5806a929e53be32a4625d/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": null,
+            "usdPrice": null,
+            "coingecko_rank": null,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 1,
+                "attention_security_items": 0,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+            "name": "Axelar Wrapped USDC",
+            "symbol": "axlUSDC",
+            "blockchainNetwork": "blast",
+            "decimals": 6,
+            "image": "https://assets.rubic.exchange/assets/blast/0xeb466342c4d449bc9f53a865d5cb90586f405215/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": null,
+            "usdPrice": null,
+            "coingecko_rank": null,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 1,
+                "attention_security_items": 0,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad",
+            "name": "Axelar Wrapped WBTC",
+            "symbol": "axlWBTC",
+            "blockchainNetwork": "blast",
+            "decimals": 8,
+            "image": "https://assets.rubic.exchange/assets/blast/0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": null,
+            "usdPrice": null,
+            "coingecko_rank": null,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 1,
+                "attention_security_items": 0,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0x2eA97dC35AC341DaC6ad80137Ef14d79b762804D",
+            "name": "xyETH",
+            "symbol": "xyETH",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0x2ea97dc35ac341dac6ad80137ef14d79b762804d/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": null,
+            "usdPrice": null,
+            "coingecko_rank": null,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 1,
+                "attention_security_items": 0,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        },
+        {
+            "address": "0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c",
+            "name": "YES",
+            "symbol": "YES",
+            "blockchainNetwork": "blast",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/blast/0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c/logo.png",
+            "rank": -0.01,
+            "usedInIframe": false,
+            "coingeckoId": "yes-money",
+            "usdPrice": 4.15,
+            "coingecko_rank": 664,
+            "token_security": {
+                "has_info": true,
+                "trust_list": null,
+                "risky_security_items": 1,
+                "attention_security_items": 0,
+                "is_airdrop_scam": null,
+                "fake_token": false
+            }
+        }
+    ]
+}

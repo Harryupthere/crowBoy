@@ -1,0 +1,35 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "address": "0x0000000000000000000000000000000000000000",
+            "name": "Boba Token",
+            "symbol": "BOBA",
+            "blockchainNetwork": "boba-bsc",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/boba-bsc/0x0000000000000000000000000000000000000000/logo.png",
+            "rank": 8.0,
+            "usedInIframe": false,
+            "coingeckoId": null,
+            "usdPrice": null,
+            "coingecko_rank": null,
+            "token_security": null
+        },
+        {
+            "address": "0x9f98f9f312d23d078061962837042b8918e6aff2",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "blockchainNetwork": "boba-bsc",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/boba-bsc/0x9f98f9f312d23d078061962837042b8918e6aff2/logo.png",
+            "rank": 0.0,
+            "usedInIframe": false,
+            "coingeckoId": null,
+            "usdPrice": null,
+            "coingecko_rank": null,
+            "token_security": null
+        }
+    ]
+}

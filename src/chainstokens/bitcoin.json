@@ -1,0 +1,21 @@
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "address": "0x0000000000000000000000000000000000000000",
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "blockchainNetwork": "bitcoin",
+            "decimals": 8,
+            "image": "https://assets.rubic.exchange/assets/bitcoin/0x0000000000000000000000000000000000000000/logo.png",
+            "rank": 8.0,
+            "usedInIframe": false,
+            "coingeckoId": "bitcoin",
+            "usdPrice": 66321.0,
+            "coingecko_rank": 1,
+            "token_security": null
+        }
+    ]
+}

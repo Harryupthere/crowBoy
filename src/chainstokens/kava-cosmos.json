@@ -1,0 +1,21 @@
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "address": "0x0000000000000000000000000000000000000000",
+            "name": "Kava",
+            "symbol": "KAVA",
+            "blockchainNetwork": "kava-cosmos",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/kava-cosmos/0x0000000000000000000000000000000000000000/logo.png",
+            "rank": 8.0,
+            "usedInIframe": false,
+            "coingeckoId": null,
+            "usdPrice": null,
+            "coingecko_rank": null,
+            "token_security": null
+        }
+    ]
+}

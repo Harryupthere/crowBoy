@@ -1,0 +1,35 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "address": "0x0000000000000000000000000000000000000000",
+            "name": "ONE",
+            "symbol": "ONE",
+            "blockchainNetwork": "harmony",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/harmony/0x0000000000000000000000000000000000000000/logo.png",
+            "rank": 8.0,
+            "usedInIframe": false,
+            "coingeckoId": null,
+            "usdPrice": null,
+            "coingecko_rank": null,
+            "token_security": null
+        },
+        {
+            "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+            "name": "Wrapped ONE",
+            "symbol": "WONE",
+            "blockchainNetwork": "harmony",
+            "decimals": 18,
+            "image": "https://assets.rubic.exchange/assets/harmony/0xcf664087a5bb0237a0bad6742852ec6c8d69a27a/logo.png",
+            "rank": 7.0,
+            "usedInIframe": false,
+            "coingeckoId": null,
+            "usdPrice": null,
+            "coingecko_rank": null,
+            "token_security": null
+        }
+    ]
+}
