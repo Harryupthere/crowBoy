@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev --port=8080",
     "build": "next build",
-    "start": "next start",
+    "start": "npm run dev",
     "lint": "next lint",
     "format": "prettier --write .",
     "export": "next export"
