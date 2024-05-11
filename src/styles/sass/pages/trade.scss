@@ -132,6 +132,7 @@
   font-size: 15px;
   margin: 0;
   padding: 0px;
+  margin-bottom: 4px
 }
 .stacking-approve-box-minibox-btn-content h5 {
   color: white;
@@ -826,4 +827,40 @@ input:checked + .toggle-slider:before {
     border-radius: 9px;
     z-index: 100;
   }
+}
+
+.list-chain {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  padding: 10px;
+  height: 300px;
+overflow-y: auto;
+}
+
+
+.list-chain ul li{
+  min-width: 200px;
+    max-width: 184px;
+}
+
+.list-chain::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+.list-chain::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 50px;
+}
+ 
+/* Handle */
+.list-chain::-webkit-scrollbar-thumb {
+  background: #ccc; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+.list-chain::-webkit-scrollbar-thumb:hover {
+  background: #ccc; 
 }
